@@ -26,6 +26,7 @@ In my personal time, I'm passionate about men's makeup and fashion, constantly r
 - HTML
 - CSS
 - PHP
+- JavaScript
 
 ### Game Development
 - Unity
